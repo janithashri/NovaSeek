@@ -1,7 +1,7 @@
-const { planets } = require('../../models/planets.model'); // Ensure planets is exported correctly
+const { planets } = require('../../models/planets.model'); 
 
 function getAllPlanets(req, res) {
-    return res.status(200).json(planets); // Send the planets data as the response
+    return res.status(200).json(planets); 
 }
 
 module.exports = { getAllPlanets };
