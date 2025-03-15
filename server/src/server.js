@@ -1,6 +1,6 @@
 const http = require('http');
 const app = require('./app');
-const { loadPlanetsData } = require('./models/planets.model'); // Fixed case
+const { loadPlanetsData } = require('./models/planets.model'); 
 
 const PORT = 8000;
 const server = http.createServer(app);
