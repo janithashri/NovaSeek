@@ -55,6 +55,7 @@ NovaSeek/
 ├── server.js
 └── README.md
 
+---
 ##🧠 What I Learned
 
 Building NovaSeek was a hands-on deep dive into backend architecture and real-world data processing. Here's what I learned:
@@ -69,7 +70,7 @@ Building NovaSeek was a hands-on deep dive into backend architecture and real-wo
 
 🔁 Gained experience in asynchronous operations, request validation, and error handling.
 
-
+---
 
 ##🚀 Getting Started
 
@@ -81,7 +82,7 @@ npm install
 npm start
 
 The server runs at http://localhost:8000 by default.
-
+---
 
 ##📮 Let's Connect
 
