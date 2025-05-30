@@ -53,7 +53,8 @@ NovaSeek/
 ├── logs/
 ├── app.js
 ├── server.js
-└── README.md```
+└── README.md
+```
 
 ---
 ##🧠 What I Learned
