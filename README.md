@@ -55,10 +55,7 @@ NovaSeek/
 ├── server.js
 └── README.md
 
-
----
-
-🧠 What I Learned
+##🧠 What I Learned
 
 Building NovaSeek was a hands-on deep dive into backend architecture and real-world data processing. Here's what I learned:
 
@@ -74,9 +71,7 @@ Building NovaSeek was a hands-on deep dive into backend architecture and real-wo
 
 
 
----
-
-🚀 Getting Started
+##🚀 Getting Started
 
 Clone the repo and run it locally:
 
@@ -88,22 +83,7 @@ npm start
 The server runs at http://localhost:8000 by default.
 
 
----
-
-🔗 Project Link
-
-🌍 NovaSeek Backend on GitHub
-
-
----
-
-📮 Let's Connect
+##📮 Let's Connect
 
 Feel free to explore, fork, or contribute!
-📧 [your.email@example.com]
-🌐 [your-portfolio.dev] | 💼 [LinkedIn]
-
----
-
-Let me know if you want this in a downloadable file or want to create a matching frontend README too.
-
+📧 janithashri@gmail.com
