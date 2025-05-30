@@ -57,7 +57,7 @@ NovaSeek/
 ```
 
 ---
-##🧠 What I Learned
+🧠 **What I Learned**
 
 Building NovaSeek was a hands-on deep dive into backend architecture and real-world data processing. Here's what I learned:
 
@@ -73,7 +73,7 @@ Building NovaSeek was a hands-on deep dive into backend architecture and real-wo
 
 ---
 
-##🚀 Getting Started
+🚀 **Getting Started**
 
 Clone the repo and run it locally:
 
@@ -85,7 +85,7 @@ npm start
 The server runs at http://localhost:8000 by default.
 ---
 
-##📮 Let's Connect
+📮 **Let's Connect**
 
 Feel free to explore, fork, or contribute!
 📧 janithashri@gmail.com
