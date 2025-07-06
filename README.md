@@ -77,7 +77,7 @@ Building NovaSeek was a hands-on deep dive into backend architecture and real-wo
 
 Clone the repo and run it locally:
 
-git clone https://github.com/your-username/novaseek-backend
+git clone https://github.com/janithashri/novaseek-backend
 cd novaseek-backend
 npm install
 npm start
